@@ -1,0 +1,34 @@
+.navbar{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    letter-spacing: 0.09em;
+    margin: 2rem 6rem;
+}
+
+.navbar ul{
+    display: flex;  
+}
+
+.navbar li{
+    list-style-type: none;
+    margin: 0 2rem 0 0;  
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+
+}
+
+.navbar a:hover{
+    color: #1d11f7;
+}
+
+
+@media screen and (max-width: 815px){
+    .navbar{
+        font-size: 12px;
+    }
+
+}

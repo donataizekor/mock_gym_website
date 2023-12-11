@@ -1,0 +1,53 @@
+.form{
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    padding: 0 2rem;
+    overflow-y: none;
+  }
+  
+.form h1{
+    padding: .5rem 0;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.content{
+    text-align: left;
+}
+
+.control{
+    margin-bottom: 0.5rem;
+}
+
+.control input,
+.control textarea {
+    display: block;
+    font: inherit;
+    border-radius: 2px;
+    border: 1px solid #ccc;
+    padding: 0.25rem;
+    width: 95%;
+
+}
+
+.actions {
+    margin-top: .5rem;
+    text-align: center;
+}
+
+.actions button {
+    font: inherit;
+    cursor: pointer;
+    background-color: #9795fd;
+    color: white;
+    border: none;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.error{
+    color: #423eff;
+    font-size: 15px;
+    margin-bottom: 1rem;
+}

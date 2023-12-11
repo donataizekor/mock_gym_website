@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+    margin: 10rem 0;
+}
+
+h1 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 80px;
+}
+
+.logoutButton{
+    background-color: #9795fd;
+    border: 2px solid #9795fd;
+    border-radius: 2px;
+    padding: .5rem 3rem;
+    margin: 2rem 0 0 0;
+    font-family: 'DM Sans', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}

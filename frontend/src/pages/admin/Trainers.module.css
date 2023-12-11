@@ -1,0 +1,70 @@
+.grid{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 25px;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    margin: 0;
+ 
+}
+
+.content h1{
+    font-size: 20px;
+    margin: 0 0 2rem 0;
+}
+
+.content{
+    color: #000;
+    margin: auto 0;
+    padding: 0 2rem;
+}
+
+
+.content table {
+    width: 100%;
+}
+
+.content th{
+    background-color: #fff;
+    padding: .9rem 2rem;
+    font-weight: 400;
+}
+
+.content td a{
+    color: #000012;
+    text-decoration: none;
+}
+
+.content td a:hover{
+    color: #1d11f7;
+}
+
+
+.content table, td {
+    text-align: left;
+    background-color: #f2f2f2;
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+    border-collapse: collapse;
+    font-size: 15px;
+    padding: .9rem 2rem;
+}
+
+.coursesButton{
+    text-align: center;
+    margin: 2rem 0 0 0 
+}
+
+.coursesButton button{
+    background-color: #9795fd;
+    border: 2px solid #9795fd;
+    border-radius: 2px;
+    padding: .5rem 3rem;
+}
+
+.coursesButton button a{
+    font-family: 'DM Sans', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+

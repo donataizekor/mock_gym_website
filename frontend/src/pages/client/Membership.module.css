@@ -1,0 +1,23 @@
+.content{
+    font-family: 'DM Sans', sans-serif;
+    margin: 0 16rem;
+    font-size: 25px;
+    text-align: justify;
+}
+
+
+.content p{
+    margin: 2rem 0;
+    color: #000;
+}
+
+.membership h1{
+    margin: 2rem 0 0 0;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+} 
+
+.price{
+    text-align: right;
+}
